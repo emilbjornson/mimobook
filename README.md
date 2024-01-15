@@ -1,4 +1,4 @@
-Foundations of User-Centric Cell-Free Massive MIMO
+Introduction to Multiple Antenna Communications and Reconfigurable Surfaces
 ==================
 
 This repository contains the free authors' version and the accompanying code package of the textbook :
@@ -9,28 +9,28 @@ The code package contains a simulation environment, based on Matlab, that can be
 
 ## Abstract of the Book
 
-Imagine a coverage area where each mobile device is communicating with a preferred set of wireless access points
-(among many) that are selected based on its needs and cooperate to jointly serve it, instead of creating autonomous
-cells. This effectively leads to a user-centric post-cellular network architecture, which can resolve many of the interference issues and service-quality variations that appear in cellular networks. This concept is called User-centric Cellfree Massive MIMO (multiple-input multiple-output) and
-has its roots in the intersection between three technology
-components: Massive MIMO, coordinated multipoint processing, and ultra-dense networks. The main challenge is to
-achieve the benefits of cell-free operation in a practically
-feasible way, with computational complexity and fronthaul
-requirements that are scalable to enable massively large
-networks with many mobile devices. This monograph covers
-the foundations of User-centric Cell-free Massive MIMO,
-starting from the motivation and mathematical definition. It
-continues by describing the state-of-the-art signal processing
-algorithms for channel estimation, uplink data reception, and downlink data transmission with either centralized or
-distributed implementation. The achievable spectral efficiency is mathematically derived and evaluated numerically
-using a running example that exposes the impact of various
-system parameters and algorithmic choices. The fundamental tradeoffs between communication performance, computational complexity, and fronthaul signaling requirements
-are thoroughly analyzed. Finally, the basic algorithms for
-pilot assignment, dynamic cooperation cluster formation,
-and power optimization are provided, while open problems
-related to these and other resource allocation problems are
-reviewed. All the numerical examples can be reproduced
-using the accompanying Matlab code.
+Wireless communication is the backbone of the digitized society, where everything is connected and intelligent.
+Access points and devices are nowadays equipped with multiple antennas to achieve higher data rates, better
+reliability, and support more users than in the past. This book gives a gentle introduction to multiple antenna
+communications with a focus on system modeling, channel capacity theory, algorithms, and practical implications.
+The basics of wireless localization, radar sensing, and controllable reflection through reconfigurable surfaces are
+also covered. The goal is to provide the reader with a solid understanding of this transformative technology that
+changes how wireless networks are designed and operated, today and in the future.
+
+The first three chapters cover the fundamentals of wireless channels, and the main benefits of using multiple
+antennas are identified: beamforming, diversity, and spatial multiplexing. The theory and signal processing
+algorithms for multiple-input multiple-output (MIMO) communications with antenna arrays at the transmitter and
+receiver are progressively developed. The next two chapters utilize these results to study point-to-point MIMO
+channels under line-of-sight (LOS) and non-LOS conditions, covering the shape of signal beams, impact of array
+geometry, polarization, and ways to achieve reliable communication over fading channels. The book then shifts
+focus to multi-user MIMO channels, where interference between devices is managed by spatial processing. The next
+chapter extends the theory to multicarrier channels and explains practical digital, analog, and hybrid hardware
+implementations. The last two chapters cover the role of multiple antennas in localization and sensing, and how
+reconfigurable surfaces can improve both communication and sensing systems.
+
+The text was developed as the textbook for a university course and builds on the reader's previous knowledge of
+signals and systems, linear algebra, probability theory, and digital communications. Each chapter contains
+numerous examples, exercises, and simulation results that can be reproduced using accompanying code.
 
 ## Content of Code Package
 
