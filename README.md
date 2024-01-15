@@ -44,26 +44,35 @@ See each script and function for further documentation. Note that some of the fu
 
 ## Acknowledgements
 
-We would first like to thank our students and collaborators in the areas
-related to this monograph. Without the results, encouragements, and
-insights obtained through our joint research during the last decade, it
-wouldn’t have been possible to write this monograph. We are grateful for
-the constructive feedback from the reviewers, which helped us to focus
-our final editing efforts at the right places. In particular, we would like
-to thank Angel Lozano, Jiayi Zhang, Mahmoud Zaher, and Yasaman
-Khorsandmanesh for giving detailed comments.
+First and foremost, we would like to thank our families for supporting us
+throughout the seemingly neverending journey of writing this book.
 
-Özlem Tuğfe Demir and Emil Björnson have been supported by the
-Wallenberg AI, Autonomous Systems and Software Program (WASP)
-funded by the Knut and Alice Wallenberg Foundation. Emil Björnson
-has also been supported by the Excellence Center at Linköping – Lund in
-Information Technology (ELLIIT), the Center for Industrial Information
-Technology (CENIIT), the Swedish Research Council, and the Swedish
-Foundation for Strategic Research. Luca Sanguinetti has been partially
-supported by the University of Pisa under the PRA Research Project
-CONCEPT, and by the Italian Ministry of Education and Research
-(MIUR) in the framework of the CrossLab project (Departments of
-Excellence).
+The know-how that we share has been developed through scientific conversations
+and collaborations with Erik G. Larsson, Thomas Marzetta, Luca
+Sanguinetti, Jakob Hoydis, Björn Ottersten, Mats Bengtsson, Petar Popovski,
+Merouane Debbah, and many other excellent researchers. A special thanks
+go to Daniel Verenzuela, Marcus Karlsson, Giovanni Interdonato, Özgecan
+Özdogan, and Nikolaos Kolomvakis, who have influenced the material by being
+great teaching assistants in the course “Multiple Antenna Communications”.
+Many colleagues and students have read drafts of the book and provided
+detailed feedback, which enables us to polish off the rough edges and improve
+the technical rigor. Some of these are Alva Kosasih, Amna Irshad, Eren Berk
+Kama, Mert Alıcıoğlu, Morteza Tavana, Parisa Ramezani, Salih Gümüşbuğa,
+Sarvendranath Rimalapudi, Unnikrishnan Kunnath Ganesan, Yasaman Khorsandmanesh,
+and Zakir Hussain Shaik. We apologize to everyone we have
+forgotten since we did not make notes of contributors until recently. We would
+also like to thank Daniel Aronsson for helping us resolve MATLAB issues and
+everyone who has asked questions related to our videos and blog posts, which
+guided us in what concepts to explain in the book.
+
+Finally, we would like to thank KTH Royal Institute of Technology,
+Linköping University, and TOBB University of Economics and Technology for
+giving us the time to write this book, as well as the Swedish Research Council,
+Swedish Foundation for Strategic Research, Knut and Alice Wallenberg Foundation,
+VINNOVA, and the Scientific and Technological Research Council of
+Türkiye that have funded our research efforts in these areas in recent years.
+
+The authors, November 2023
 
 ## License and Referencing
 
