@@ -34,13 +34,13 @@ numerous examples, exercises, and simulation results that can be reproduced usin
 
 ## Content of Code Package
 
-This code package contains 30 Matlab scripts and 17 Matlab functions.
+This code package contains 138 Matlab scripts and 1 Matlab function.
 
-Each script is used to reproduce a particular simulation-generated figure in the book. The scripts are named using the convention sectionX_figureY, which is interpreted as the script that reproduces Figure X.Y. A few scripts are instead named as chapterX_exerciseX_Y and will then generate the figure corresponding to Exercise X.Y.
+Each script is used to reproduce a particular simulation-generated figure in the book. The scripts are named using the convention chapterX_figureY, which is interpreted as the script that reproduces Figure X.Y. A few scripts are instead named as chapterX_exerciseX_Y and will then generate the figure corresponding to Exercise X.Y. A few scripts are named as chapterX_figureY_Z and will then generate Figures X.Y and X.Z. 
 
-The functions are used by the scripts to carry out certain tasks, such as initiating a simulation setup, generating channel correlation matrices, generating channel realizations, computing channel estimates, computing SEs, implementing power control algorithms, etc.
+The function "functionWaterfilling.m" is used by several scripts to carry out waterfilling power allocation.
 
-See each script and function for further documentation. Note that some of the functions use [CVX](http://cvxr.com/cvx/) with SDPT3 solver, which need to be installed separately.
+See each script and function for further documentation. 
 
 ## Acknowledgements
 
