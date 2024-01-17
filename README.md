@@ -36,7 +36,7 @@ numerous examples, exercises, and simulation results that can be reproduced usin
 
 This code package contains 138 Matlab scripts and 1 Matlab function.
 
-Each script is used to reproduce a particular simulation-generated figure in the book. The scripts are named using the convention chapterX_figureY, which is interpreted as the script that reproduces Figure X.Y. A few scripts are instead named as chapterX_exerciseX_Y and will then generate the figure corresponding to Exercise X.Y. A few scripts are named as chapterX_figureY_Z and will then generate Figures X.Y and X.Z. 
+Each script is used to reproduce a particular simulation-generated figure in the book. The scripts are named using the convention chapterX_figureY, which is interpreted as the script that reproduces Figure X.Y. A few scripts are named chapterX_figureY_Z and will then generate Figures X.Y and X.Z. 
 
 The function "functionWaterfilling.m" is used by several scripts to carry out waterfilling power allocation.
 
