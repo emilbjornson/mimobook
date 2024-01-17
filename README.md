@@ -3,7 +3,7 @@ Introduction to Multiple Antenna Communications and Reconfigurable Surfaces
 
 This repository contains the free authors' version and the accompanying code package of the textbook :
 
-Emil Björnson and Özlem Tuğfe Demir (2024) “[Introduction to Multiple Antenna Communications and Reconfigurable Surfaces](https://www.nowpublishers.com)”. Boston–Delft: Now Publishers
+Emil Björnson and Özlem Tuğfe Demir (2024) “[Introduction to Multiple Antenna Communications and Reconfigurable Surfaces]([https://www.nowpublishers.com](https://nowpublishers.com/Article/BookDetails/9781638283140))”. Boston–Delft: Now Publishers, http://dx.doi.org/10.1561/9781638283157
 
 The code package contains a simulation environment, based on Matlab, that can be used to reproduce all the simulation results in the book. We hope that the code will support you in the learning of the Multiple Antenna Communications and Reconfigurable Surfaces topics and also serve as a baseline for further research endeavors. *We encourage you to also perform reproducible research!*
 
