@@ -1,4 +1,4 @@
-%This Matlab script can be used to reproduce Figure X.Y in the textbook:
+%This Matlab script can be used to reproduce Figure 1.4 in the textbook:
 %Emil Bjornson and Ozlem Tugfe Demir (2024),
 %"Introduction to Multiple Antenna Communications and Reconfigurable Surfaces", 
 %Boston-Delft: Now Publishers, http://dx.doi.org/10.1561/9781638283157
