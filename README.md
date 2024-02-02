@@ -37,7 +37,7 @@ numerous examples, exercises, and simulation results that can be reproduced usin
 
 ## Content of Code Package
 
-This code package contains 138 Matlab scripts and 1 Matlab function.
+This code package contains 138 Matlab scripts and 1 Matlab function. You can run the code in MATLAB online without a license by clicking on the link above.
 
 Each script is used to reproduce a particular simulation-generated figure in the book. The scripts are named using the convention chapterX_figureY, which is interpreted as the script that reproduces Figure X.Y. A few scripts are named chapterX_figureY_Z and will then generate Figures X.Y and X.Z. 
 
