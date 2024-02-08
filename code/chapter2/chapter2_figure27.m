@@ -25,6 +25,7 @@ prob2_H1 = 1/3;
 
 sigma2 = 0.5;
 
+qfunc = @(x) 0.5 * erfc(x/sqrt(2));
 
 threshold = 0.01:0.01:3;
 PD = zeros(size(threshold));
