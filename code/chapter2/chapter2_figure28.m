@@ -22,6 +22,8 @@ threshold = norminv(1-PFA);
 SNR = 0:0.01:20; 
 sigma = sqrt(1./db2pow(SNR));
 
+qfunc = @(x) 0.5 * erfc(x/sqrt(2));
+
 PD = zeros(length(sigma),length(threshold));
 
 for s = 1:length(sigma)
